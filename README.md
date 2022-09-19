@@ -1,2 +1,2 @@
 # PROJECT-ES102
-Writing skills and hand,eye and brain coordination
+Developed a game using python , which tests the coordination between hands and eye. It also tests your typing skills. 
